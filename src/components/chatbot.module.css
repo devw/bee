@@ -1,0 +1,7 @@
+.chatbox {
+    height: 60px;
+    background-color: #fff;
+    flex-grow: 1;
+    margin: 20px;
+    text-align: center;
+}

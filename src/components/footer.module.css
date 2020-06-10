@@ -1,0 +1,11 @@
+.footer {
+    background-color: #ccc;
+    display: flex;
+    height: var(--height);
+    margin: 2px;
+}
+
+.footer > div {
+    background-color: #fff;
+    width: 20%;
+  }
