@@ -22,21 +22,3 @@ div {
   margin: 0 auto;
   height: 98vh;
 }
-.main {
-  background-color: #ccd;
-  flex-grow: 1;
-  display: flex;
-  flex-direction: column;
-}
-.main .card {
-  height: var(--height);
-  background-color: #fff;
-  flex-grow: 1;
-  margin: 20px;
-  text-align: center;
-}
-
-.icon {
-  background-color: #fff;
-  width: 20%;
-}
