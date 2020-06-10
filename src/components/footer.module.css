@@ -1,0 +1,6 @@
+.footer {
+    background-color: #ccc;
+    display: flex;
+    height: var(--height);
+    margin: 2px;
+}

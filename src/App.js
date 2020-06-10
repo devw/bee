@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
 import { Chatbot } from "./components/chatbot";
+import { Footer } from "./components/footer";
 
 function App() {
     return (
@@ -10,13 +11,7 @@ function App() {
                 <div className="card dashboard">dashboard</div>
                 <Chatbot></Chatbot>
             </div>
-            <div className="footer">
-                <div className="icon"></div>
-                <div className="icon"></div>
-                <div className="icon"></div>
-                <div className="icon"></div>
-                <div className="icon"></div>
-            </div>
+            <Footer></Footer>
         </div>
     );
 }
