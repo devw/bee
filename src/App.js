@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import { Chatbox } from "./components/chatbox";
+import { Chatbot } from "./components/chatbot";
 
 function App() {
     return (
@@ -8,7 +8,7 @@ function App() {
             <div className="header">BPER Logo</div>
             <div className="main">
                 <div className="card dashboard">dashboard</div>
-                <Chatbox></Chatbox>
+                <Chatbot></Chatbot>
             </div>
             <div className="footer">
                 <div className="icon"></div>

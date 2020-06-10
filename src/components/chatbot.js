@@ -1,7 +1,7 @@
 import React from "react";
-import classes from "./chatbox.module.css";
+import classes from "./chatbot.module.css";
 
-export const Chatbox = () => (
+export const Chatbot = () => (
     <div>
         <div className={classes.chatbox}>Chatbox</div>
     </div>
